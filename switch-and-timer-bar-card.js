@@ -124,7 +124,7 @@ let HaLitBase,haHtml,haCss;!function(){function W(W,t,c,n,e){return _0x42d0(t-84
       <div class="entity-card">
         <div class="header">
           <div class="title" style="${C?u(0,1771,2031,2813,"uCwH")+": "+m.on:""}">
-            ${W[n("&dO5",41,697,0,355)]||k[e(0,2281,"%Ni@",2453,1897)+s(0,777,0,492,"Ca&n")][s(0,1474,0,808,"Z%sF")+d(0,"LzOn",0,1168,1702)+d(0,"Z%sF",0,1440,2281)]||i}
+            v1.0.9 - ${W[n("&dO5",41,697,0,355)]||k[e(0,2281,"%Ni@",2453,1897)+s(0,777,0,492,"Ca&n")][s(0,1474,0,808,"Z%sF")+d(0,"LzOn",0,1168,1702)+d(0,"Z%sF",0,1440,2281)]||i}
           </div>
           <div class="status" style="${q}">
             ${this[d(0,"0tbp",0,-250,635)+u(0,1422,2100,2819,"NB6B")+n("4Cri",419,1813,0,1039)](k,l,p)}
