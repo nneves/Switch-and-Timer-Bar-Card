@@ -1,3 +1,5 @@
+Note: This is a fork from https://github.com/cataseven/Switch-and-Timer-Bar-Card , all credits and rights reserved to the original owner!
+
 <a href="https://www.buymeacoffee.com/cataseven" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
@@ -7,6 +9,10 @@
 A flexible Lovelace card for Home Assistant that lets you control a device, manage an associated timer, and track its progress with a visual bar. Perfect for automations that need timing and status tracking—irrigation, pool pumps, blinds, gates, media players, charging stations, and more. You can even turn_off your automations or your input_boolean entity for spesific time that you want!
 
 ![image1](images/simple1.png)
+
+## 📝 Recent Updates
+
+**v1.0.9** - Added hours format support for timer display (e.g., `2h 30m 00s` instead of `150m 00s`)
 
 ## ✨ Features
 
